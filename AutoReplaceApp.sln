@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoReplaceApp", "AutoReplaceApp.csproj", "{E4B257B1-5122-4A9C-8A2F-1F3380DBD7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B257B1-5122-4A9C-8A2F-1F3380DBD7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B257B1-5122-4A9C-8A2F-1F3380DBD7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B257B1-5122-4A9C-8A2F-1F3380DBD7EB}.Debug|x86.ActiveCfg = Debug|x86
+		{E4B257B1-5122-4A9C-8A2F-1F3380DBD7EB}.Debug|x86.Build.0 = Debug|x86
+		{E4B257B1-5122-4A9C-8A2F-1F3380DBD7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B257B1-5122-4A9C-8A2F-1F3380DBD7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B257B1-5122-4A9C-8A2F-1F3380DBD7EB}.Release|x86.ActiveCfg = Release|x86
+		{E4B257B1-5122-4A9C-8A2F-1F3380DBD7EB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9BF9B69-F21C-457A-88A5-4C9F0FE3B859}
+	EndGlobalSection
+EndGlobal
